@@ -1,0 +1,107 @@
+[
+  {
+    "name": "IKEA Wooden Chair",
+    "price": 2499,
+    "featured": true,
+    "rating": 4.7,
+    "company": "ikea"
+  },
+  {
+    "name": "Liddy Comfort Sofa",
+    "price": 15999,
+    "featured": false,
+    "rating": 4.3,
+    "company": "liddy"
+  },
+  {
+    "name": "Caressa Study Table",
+    "price": 6999,
+    "featured": true,
+    "rating": 4.6,
+    "company": "caressa"
+  },
+  {
+    "name": "Marcos Bed Frame",
+    "price": 12999,
+    "featured": false,
+    "rating": 4.4,
+    "company": "marcos"
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "price": 124999,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 89999,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "price": 26999,
+    "featured": false,
+    "rating": 4.5,
+    "company": "xaomi"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 58999,
+    "featured": false,
+    "rating": 4.4,
+    "company": "dell"
+  },
+  {
+    "name": "IKEA Dining Set",
+    "price": 18999,
+    "featured": true,
+    "rating": 4.6,
+    "company": "ikea"
+  },
+  {
+    "name": "Caressa Recliner Chair",
+    "price": 11999,
+    "featured": false,
+    "rating": 4.3,
+    "company": "caressa"
+  },
+  {
+    "name": "Liddy Modern Lamp",
+    "price": 2499,
+    "featured": true,
+    "rating": 4.5,
+    "company": "liddy"
+  },
+  {
+    "name": "Samsung Smart TV 55-inch",
+    "price": 54999,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Apple iPhone 15 Pro",
+    "price": 139999,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Dell Ultrasharp Monitor",
+    "price": 22999,
+    "featured": false,
+    "rating": 4.6,
+    "company": "dell"
+  },
+  {
+    "name": "Xiaomi Air Purifier 4",
+    "price": 13999,
+    "featured": false,
+    "rating": 4.4,
+    "company": "xaomi"
+  }
+]
